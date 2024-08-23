@@ -14,9 +14,9 @@
   <hr>
 </p>
 
-#### Competitions ?
+#### Competitions
 <p>
-  <p>SuperAI SS4 Machima Shing-100-Shing-Lan</p>
+  <p>SuperAI SS4 Machima Shing-100-Shing-1M</p>
   <li>🏆 AI Hackathon
       <ul>
         <li>1st | Legal Act Classification x BOL</li>
@@ -34,17 +34,22 @@
 </p>
 
 <p>
-  Brute Forced Algo
+  Brute Forced Algorithms
 </p>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <p>
-  Artificial Intelligence
+  Machine Learning & AI
 </p>
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD700?style=for-the-badge&logo=HuggingFace&logoColor=black&labelColor=FFD700)
+![Langchain](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![LLamaIndex](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <p>
   Secrets tools for Human Fine-tuning
