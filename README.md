@@ -47,7 +47,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <p>
-  Human Fine-tuning
+  Secrets tools for Human Fine-tuning
 </p>
 
 ![Al](https://media.tenor.com/RpH6oE2jeMQAAAAe/shots-pouringadrink.png) 
