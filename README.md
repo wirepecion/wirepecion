@@ -33,6 +33,13 @@
   Now it's issued because time out!
 </p>
 
+<p>
+  Brute Forced Algo
+</p>
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 
 <!--
 **wirepecion/wirepecion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
