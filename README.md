@@ -55,7 +55,7 @@
   Secrets tools for Human Fine-tuning
 </p>
 
-![Al](https://media.tenor.com/RpH6oE2jeMQAAAAe/shots-pouringadrink.png) 
+Warning: [This picture](https://media.tenor.com/RpH6oE2jeMQAAAAe/shots-pouringadrink.png) may cause uncontrollable laughter and snorting.
 
 
 <!--
