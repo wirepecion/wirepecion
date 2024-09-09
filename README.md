@@ -24,7 +24,7 @@
         <li>3rd | Image Captioning Hackathon x IPU</li>
       </ul>
   </li>
-  
+  <a href = "http://gitlab.superai.aiat.or.th/400158">Gitlab SuperAI</a>
   <hr>
 </p>
 
