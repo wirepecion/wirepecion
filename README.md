@@ -16,7 +16,7 @@
 
 #### Competitions
 <p>
-  <p>SuperAI SS4 Machima Shing-100-Shing-1M</p>
+  <p>SuperAI SS4 🥉 Machima Shing-100-Shing-1M</p>
   <li>🏆 AI Hackathon
       <ul>
         <li>1st | Legal Act Classification x BOL</li>
